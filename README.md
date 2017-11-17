@@ -13,7 +13,7 @@
 - [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)
 - [InfoSec](https://github.com/onlurking/awesome-infosec)
 - [IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks)
-- [Malware Analysis]()
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [OSINT](https://github.com/jivoi/awesome-osint)
 - [OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome)
 - [Pcaptools](https://github.com/caesar0301/awesome-pcaptools)
