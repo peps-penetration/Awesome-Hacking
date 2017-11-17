@@ -6,7 +6,7 @@
 - [CTF](https://github.com/apsdehal/awesome-ctf)
 - [DevSecOps](https://github.com/devsecops/awesome-devsecops)
 - [Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development)
-- [Fuzzing Fuzzing](https://github.com/secfigo/Awesome)
+- [Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Honeypots](https://github.com/paralax/awesome-honeypots)
 - [Incident Response](https://github.com/meirwah/awesome-incident-response) 
