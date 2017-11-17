@@ -32,68 +32,32 @@
 - [Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
 - [WiFi Arsenal](https://github.com/0x90/wifi-arsenal)
 
-
-API Security Checklist
-APT Notes
-Bug Bounty Reference
-Cryptography
-CTF Tool
-CVE PoC
-Forensics
-Free Programming Books
-Gray Hacker Resources
-Infosec Getting Started
-Infosec Reference
-
-Потрясающий справочник по информационной безопасности.
-IOC
-
-Коллекция источников с индикаторами компрометации.
-Linux Kernel Exploitation
-
-Куча ссылок по фаззингу и эксплуатации ядра Linux.
-Lockpicking
-
-Ресурсы, связанные с безопасностью и взломом замков, сейфов и ключей.
-Machine Learning for Cyber Security
-
-Список инструментов и ресурсов, связанных с использованием машинного обучения для кибербезопасности.
-Malware Scripts
-
-Полезные скрипты, связанные с вредоносным ПО.
-Payloads
-
-Сборник по многофункциональной начинке веб-атак.
-PayloadsAllTheThings
-
-Список полезной информации об обходе безопасности веб-приложений и пентестингу/захвату флага.
-Pentest Cheatsheets
-
-Полезные трюки для пентестинга.
-Pentest Wiki
-
-Бесплатная онлайн библиотека для пентестеров и исследователей.
-Probable Wordlists
-
-Словарные списки, отсортированные по вероятности, которые изначально были созданы для создания и тестирования паролей.
-Resource List
-
-Коллекция полезных GitHub проектов.
-Reverse Engineering
-
-Статьи, книги по обратной разработке.
-RFSec-ToolKit
-
-Набор инструментов по протоколу передачи радио частоты.
-Security Cheatsheets
-
-Шпаргалки для разных инструментов и тем по информационной безопасности.
-Security List
-
-Великолепный список по безопасности ради удовольствия и прибыли.
-Shell
-
-Список фреймворков, инструментов, гайдов, полезных вещей для того, чтобы использовать консоль по полной.
-ThreatHunter-Playbook
-
-Книга для охотника за угрозами, которая поможет разработать техники и гипотезы для отлова.
+# Other Resources
+- [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
+- [APT Notes](https://github.com/kbandla/APTnotes)
+- [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
+- [Cryptography](https://github.com/sobolevn/awesome-cryptography)
+- [CTF Tool](https://github.com/SandySekharan/CTF-tool)
+- [CVE PoC](https://github.com/qazbnm456/awesome-cve-poc)
+- [Forensics](https://github.com/Cugu/awesome-forensics)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [Gray Hacker Resources](https://github.com/bt3gl/My-Gray-Hacker-Resources)
+- [Infosec Getting Started](https://github.com/gradiuscypher/infosec_getting_started)
+- [Infosec Reference](https://github.com/rmusser01/Infosec_Reference)
+- [IOC](https://github.com/sroberts/awesome-iocs)
+- [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
+- [Lockpicking](https://github.com/meitar/awesome-lockpicking)
+- [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+- [Malware Scripts](https://github.com/seifreed/malware-scripts)
+- [Payloads](https://github.com/foospidy/payloads)
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [Pentest Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+- [Pentest Wiki](https://github.com/nixawk/pentest-wiki)
+- [Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists)
+- [Resource List](https://github.com/onethawt/reverseengineering-reading-list)
+- [Reverse Engineering](https://github.com/onethawt/reverseengineering-reading-list)
+- [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit)
+- [Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets)
+- [Security List](https://github.com/zbetcheckin/Security_list)
+- [Shell](https://github.com/alebcay/awesome-shell)
+- [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
