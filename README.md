@@ -1,7 +1,7 @@
 # Awesome Hacking
 - [Android Security](https://github.com/ashishb/android-security-awesome)
-- [AppSec](https://github.com/paragonie/awesome-appsec AppSec)
-# https://github.com/djadmin/awesome-bug-bounty Bug Bounty
+- [AppSec](https://github.com/paragonie/awesome-appsec)
+- [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
 # https://github.com/jshaw87/Cheatsheets Cheatsheets
 # https://github.com/apsdehal/awesome-ctf CTF
 # https://github.com/devsecops/awesome-devsecops DevSecOps
